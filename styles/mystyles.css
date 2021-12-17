@@ -1,0 +1,53 @@
+.myfooter {
+
+    font-size: medium ;
+    color:black;
+    font-family: Arial, Helvetica, sans-serif ;
+}
+.myfooter2{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+}
+
+.content{
+
+    font-family: Arial, Helvetica, sans-serif; 
+}
+
+body{
+    background-color: lightgray;
+}
+
+.inlineblock{
+    display: inline-block ;
+    
+}
+.links {
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-variant: underline; 
+}
+.bold{
+    font-weight: bold;
+}
+
+
+a:link{
+    color:white;
+}
+a:hover {
+    color: blue;
+    text-decoration: underline;
+}
+.custom{
+    font-size: large;
+    color: darkolivegreen;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+.header{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
